@@ -561,7 +561,10 @@ path#f3-l9 {
 
 .about {
   display: flex;
-  justify-content: space-between;
+}
+
+.div {
+  margin-left: 40px;
 }
 
 .ava {
